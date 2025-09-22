@@ -132,7 +132,7 @@ Popularity Score = (Likes × 2) + (Views × 1)
 2. Sort by score (descending)
 3. Return top N results (default: 10, max: 50)
 
-### Additional Features
+### These are some additional features that i added to make it better and give an overall better experience
 
 #### Trending Articles
 - Separate endpoint for globally trending content
