@@ -33,9 +33,9 @@ CORS_ORIGIN=*
 ```
 
 ### 3. MongoDB Setup
-Make sure MongoDB is running locally, or update the `MONGODB_URI` in your `.env` file to point to my already created  MongoDB Atlas cluster:
+Update the `MONGODB_URI` in your `.env` file to point to my already created  MongoDB Atlas cluster and testuser created for your team
 ```
-
+MONGODB_URI=mongodb+srv://tobamstester:tobamstester@tobamsaggregator.zvb7pyo.mongodb.net/?retryWrites=true&w=majority&appName=tobamsaggregator
 ```
 
 ### 4. Build the Project
