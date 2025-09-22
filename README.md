@@ -23,7 +23,7 @@ NODE_ENV=development
 PORT=3000
 
 # MongoDB Configuration
-MONGODB_URI=mongodb+srv://agoruakody_db:j4TeSJB0sF8mYk0L@tobamsaggregator.zvb7pyo.mongodb.net/?retryWrites=true&w=majority&appName=tobamsaggregator
+MONGODB_URI=mongodb+srv://tobamstester:tobamstester@tobamsaggregator.zvb7pyo.mongodb.net/?retryWrites=true&w=majority&appName=tobamsaggregator
 
 # API Configuration
 API_VERSION=v1
