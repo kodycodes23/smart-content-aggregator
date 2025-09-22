@@ -81,7 +81,7 @@ This script will:
 
 ##  Recommendation System
 
-The API includes a sophisticated rule-based recommendation system that provides personalized article suggestions for users. The system is designed to be simple yet effective, avoiding complex ML models while still delivering relevant recommendations.
+The API includes a rule-based recommendation system that provides personalized article suggestions for users. The system is simple yet effective, i tried my best to find the best way to achieve an effective reccommendation using simple rules and an explanation to the approach is highlighted beloww:
 
 ### Algorithm Overview
 
